@@ -1,0 +1,8 @@
+com/sliit/mtit/assigment/inventorservice/service/InventoryServiceImpl.class
+com/sliit/mtit/assigment/inventorservice/config/SawggerConfig.class
+com/sliit/mtit/assigment/inventorservice/controller/inventoryController.class
+com/sliit/mtit/assigment/inventorservice/dto/SupplierCreationResponse.class
+com/sliit/mtit/assigment/inventorservice/dto/SupplierCreationRequest.class
+com/sliit/mtit/assigment/inventorservice/dto/InventoryRequest.class
+com/sliit/mtit/assigment/inventorservice/dto/InventoryResponse.class
+com/sliit/mtit/assigment/inventorservice/InventorServiceApplication.class
